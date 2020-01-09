@@ -1,0 +1,11 @@
+
+.form-group{
+margin: 0 auto;
+width: 20%; /* Valor da Largura */
+}
+
+.form-row{
+margin: 0 auto;
+width: 130%; /* Valor da Largura */
+} /* Lembrar de trocar por 30*/
+

@@ -1,0 +1,61 @@
+
+
+
+body { 
+	font-family:Bahnschrift Light; 
+	font-size:12px; }
+
+#login{ 
+    font-family:Bahnschrift Light;
+	display:block; 
+    font-size:30px;
+	margin-bottom:5px; 
+}
+
+/* -- div id --
+#text1{
+    position:relative;
+    left: - 100px;
+}
+
+-- div id --
+#text2{
+    position:relative;
+    left: - 80px;
+}
+
+Imagem
+img{
+    width: 30px;
+    height: 20px;
+    }
+*/
+
+#box {
+    width:300px;
+     /*   height:100px;
+ */   background-color:#CAE0DC;
+ float: right; /* Alinha uma DIV */
+    border-radius:60px;
+}
+
+input[type="text"] {
+    border:2px solid #ccc;
+    padding:10px;
+    margin-bottom:20px;
+    outline:none;
+}
+
+input[type="submit"] {
+    background:#A8FFE1;
+    color:#487347;
+    font-family:Bahnschrift Light;
+    font-size:18px; 
+    border:2px solid #A8FFE1;
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+/* AULA 01 
+h1{color:blue; font-size:60px; font-family:tahoma;}
+*/
